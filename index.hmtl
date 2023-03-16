@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<script src="index.js"></script>
+  </body>
+</html>
+
+<h1>Willkommen auf BarbaraKarger.de</h1>
+<p>Durch einen Hackerangriff wurde meine Website stark beschädigt. <br>
+Reperaturen laufen, und Sie finden die Reparierte Seite unter dieser Adresse so schnell wie möglich wieder.  <br>
+Ich bin weiterhin für Sie erreichbar. <br><br>
+Telefon:<br>
+Mobil:<br>
+Email:<br><br>
+Die Inhalte meiner Seite finden Sie inzwischen als PDF unter folgenden Links:<br> </p>
+<a href = "./public/2023-Homepage-Barbara-Aktuelles.pdf"> Aktuelles </a><br>
+<a href = "./public/Resilient-durch-Selbstfürsorge.pdf">Resilient durch Selbstfürsorge</a><br>
+<a href = "./public/"></a><br>
+<a href = "./impressum.html">Impressum</a><br>
+<a href = "./public/Datenschutz.pdf">Datenschutz</a><br>
